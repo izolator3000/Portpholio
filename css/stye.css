@@ -4,6 +4,10 @@
 img {
     max-width: 100%;
 }
+.social-icon {
+    max-width: 15px;
+    max-height: 15px;
+}
 body {
     background-color: blueviolet;
     margin: 0;
@@ -26,10 +30,7 @@ body {
     font-size: 36px;
     line-height: 42px;
 }
-.social-icon {
-    max-width: 15px;
-    max-height: 15px;
-}
+
 .hero {
     padding-top: 50px;
     padding-bottom: 155px;
