@@ -27,8 +27,8 @@ body {
     line-height: 42px;
 }
 .social-icon {
-    max-width: 2.5%;
-    max-height: 2.5%;
+    max-width: 15px;
+    max-height: 15px;
 }
 .hero {
     padding-top: 50px;
