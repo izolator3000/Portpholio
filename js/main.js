@@ -7,3 +7,9 @@ var mySwiper = new Swiper('.swiper-container', {
         clickable: true
       },
 });
+
+document.getElementById('BUT').addEventListener('click', scrollToElement);
+function scrollToElement(e) {
+element = document.getElementById("AAAA")
+element.scrollIntoView(true);
+}
