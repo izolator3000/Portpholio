@@ -94,14 +94,15 @@ body {
     font-weight: bold;
 }
 .hero-avatar {
-    width: 389px;
-    height: 389px;
-    background-color: #fff;
+    width: 200px;
+    height: 200px;
+    /*background-color: rgb(231, 16, 16);*/
     border-radius: 50%;
-    background-image: url('../Img/MyFotos/программист.png');
+    background-image: url('../Img/MyFotos/1MyFoto.svg');
     background-repeat: no-repeat;
     background-position: center center ;
-    border: 13px solid #fff;
+    box-sizing:border-box;
+    /*border: 13px solid #fff;*/
 }
 
 /* features */
