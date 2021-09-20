@@ -94,15 +94,17 @@ body {
     font-weight: bold;
 }
 .hero-avatar {
-    width: 200px;
-    height: 200px;
+    width: 240px;
+    height: 240px;
     background-color: rgb(231, 16, 16);
     border-radius: 50%;
-    background-image: url('../Img/MyFotos/1MyFoto.svg');
+    padding-left: 30px;
+    padding-top: 25px;
+    /* background-image: url('../Img/MyFotos/1MyFoto.svg'); */
     background-repeat: no-repeat;
     background-position: center center ;
     box-sizing:border-box;
-    /*border: 13px solid #fff;*/
+    border: 13px solid #fff;
 }
 
 /* features */
