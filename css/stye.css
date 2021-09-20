@@ -96,7 +96,7 @@ body {
 .hero-avatar {
     width: 200px;
     height: 200px;
-    /*background-color: rgb(231, 16, 16);*/
+    background-color: rgb(231, 16, 16);
     border-radius: 50%;
     background-image: url('../Img/MyFotos/1MyFoto.svg');
     background-repeat: no-repeat;
